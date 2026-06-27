@@ -354,7 +354,7 @@ La mostra ha ospitato oltre 40 opere originali provenienti da musei europei e am
     dataFine: '2025-05-31',
     luogo: 'Padiglione Est, Galleria delle Finestre',
     curatore: 'Dr. François Dubois',
-    cover: 'https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=900&h=500&fit=crop&auto=format&q=80',
+    cover: '/images/giardino.jpg',
     descrizioneBreve:
       "L'universo floreale e luminoso di Claude Monet, tra i giardini di Giverny e le rive della Senna.",
     descrizione: `Un'immersione nell'universo sensoriale di Claude Monet, il padre dell'impressionismo. La mostra ripercorre la straordinaria evoluzione del maestro francese dalla giovinezza parigina alle ultime opere a Giverny, dove la fusione di luce, acqua e colore raggiunse vette di astrazione poetica mai più eguagliate.
@@ -401,7 +401,7 @@ La mostra include oltre 80 opere tra dipinti, installazioni e sculture, ed è ac
     dataFine: '2025-01-15',
     luogo: 'Grande Salone Centrale',
     curatore: 'Prof. Giorgio Ferrari',
-    cover: 'https://images.unsplash.com/photo-1583195764036-6dc248ac07d9?w=900&h=500&fit=crop&auto=format&q=80',
+    cover: '/images/genio.jpg',
     descrizioneBreve:
       "Un'esplorazione dell'universo poliedrico di Leonardo da Vinci, tra pittura, anatomia e invenzione.",
     descrizione: `Una mostra-evento dedicata al più grande genio della storia umana. L'esposizione integra i capolavori pittorici di Leonardo con i suoi straordinari manoscritti scientifici, i disegni anatomici e i progetti ingegneristici, offrendo una visione completa e coerente di una mente che rifiutava ogni confine tra arte e conoscenza.
