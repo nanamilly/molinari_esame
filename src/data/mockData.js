@@ -15,7 +15,7 @@ export const artisti = [
     dataNascita: '15 Aprile 1452',
     dataMorte: '2 Maggio 1519',
     luogoNascita: 'Vinci, Toscana',
-    foto: 'https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=500&h=600&fit=crop&auto=format&q=80',
+    foto: '/images/Leo.jpg',
     copertina: 'https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1400&h=500&fit=crop&auto=format&q=80',
     biografia: `Leonardo di ser Piero da Vinci fu uno dei più grandi geni della storia dell'umanità: pittore, scultore, architetto, anatomista, ingegnere e filosofo naturale. Incarnazione perfetta dell'uomo rinascimentale, affrontò ogni disciplina con una curiosità insaziabile e un'acutezza intellettuale straordinaria. La sua produzione pittorica, seppur non vastissima, annovera opere fondamentali per la storia dell'arte occidentale. Con la Gioconda e l'Ultima Cena ridefinì i canoni della ritrattistica e della composizione narrativa. I suoi manoscritti, disseminati tra le biblioteche di mezza Europa, rivelano una mente che spaziava con disinvoltura dalla matematica all'ottica, dall'anatomia comparata all'idraulica.`,
     mostreIds: [5],
